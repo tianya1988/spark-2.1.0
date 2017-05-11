@@ -1,0 +1,16 @@
+.idea
+**/target/
+*/testTarget/
+*.class
+target/
+*.log
+*.bak
+*.iml
+*.gz
+*.tgz
+*.log.*
+*.zip
+.project
+.settings
+*.csv
+streamlib/streamAlgorithms-1.0.jar
